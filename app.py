@@ -244,7 +244,7 @@ with st.sidebar:
     st.markdown("""
     **Author:** Deval Pareek  
     MSc Bioinformatics, 1st Year  
-
+    **Contact:**tpdp7213@gmail.com
     **Under the Guidance of:**  
     Mr. Akshay Zawar & Miss Shrinka Datta  
     *GeneSpectrum Life Sciences LLP*  
