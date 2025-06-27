@@ -85,3 +85,4 @@ CMD ["streamlit", "run", "app.py", \
     "--server.headless=true", \
     "--server.fileWatcherType=none", \
     "--browser.gatherUsageStats=false"]
+
